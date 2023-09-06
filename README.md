@@ -8,7 +8,7 @@ In my journey,  I've had the privilege to develop specialized software solutions
 Collaboration is something I truly value, and being part of a team knowing that the software I build is helping others by solving their problems gives me a great sense of satisfaction.
 
 
-- 💬 Ask me anything about: _Java|Springboot, python|django, Angular, Typescript_, html5, sharepoint portal
+- 💬 Ask me anything about: _Java|Springboot, Python|Django, Angular, Typescript, Html5, CSS, Sharepoint portal_
 - 🧔🏾‍♂️ Pronouns: _he/him_
 - 👌🏾 Todo: _One of my dreams is to visit Germany as part of a work-and-travel experience._
 - ⚡ Fun fact: I'm handsome but no one recognizes my beauty 😂
