@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi 👋🏾 I'm Truong
 
-<!--
-**namtruongto/namtruongto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a full-stack software engineer focused on backend development. My skills encompass Java Springboot, Python|Django , Typescript, Javascript, Angular, and a range of other tools. This expertise enables me to develop solutions that seamlessly connect technology with business requirements.  In addition to coding, I hold a profound interest in business development, which significantly enriches my problem-solving approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my journey,  I've had the privilege to develop specialized software solutions for businesses in my community. These solutions span across different industries, including healthcare, education, inventory, e-payments, management tools, etc.
+
+Collaboration is something I truly value, and being part of a team knowing that the software I build is helping others by solving their problems gives me a great sense of satisfaction.
+
+
+- 💬 Ask me anything about: _Java|Springboot, python|django, Angular, Typescript_, html5, sharepoint portal
+- 🧔🏾‍♂️ Pronouns: _he/him_
+- 👌🏾 Todo: _One of my dreams is to visit Germany as part of a work-and-travel experience._
+- ⚡ Fun fact: I'm handsome but no one recognizes my beauty 😂
+
+### Connect with me
+- Email: tonamtruong17062000@gmail.com
